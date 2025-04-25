@@ -55,7 +55,7 @@ Digunakan untuk membuat halaman web responsif di perangkat mobile.<br><br>
 `Lorem` meghasilkan text random
 <br>
  ### <b>Dan berikut ini adalah file html #0001 saya buat hasil dari yang saya telah pelajari</b>
-[HTML Practice #0001](/.Learn-0001.html)
+[HTML Practice #0001](./Learn-0001.html)
 
 ---
 
